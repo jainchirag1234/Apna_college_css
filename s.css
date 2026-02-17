@@ -1,0 +1,80 @@
+body{
+    /* background-color: yellowgreen; */
+    /* background-image: url('Screenshot\ \(92\).png');
+    background-size: cover; */
+}
+h1{
+    background-color: aqua;
+    color:rgb(217, 255, 0);
+
+}
+p{
+    color:blue;
+    background-color: brown;
+}
+#paragraph{
+    color:black;
+    background-color: white;
+}
+.para{
+    color:aliceblue;
+    background-color:green;
+}
+div{
+    background-color: yellow;
+    opacity: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    padding-left: 50px ;
+}
+.dotted{
+    border-style: dotted;
+    width: 150px;
+}
+.solid{
+    border-style: solid;
+    width: 150px;
+    color: brown;
+}
+.dashed{
+    border-style: dashed;
+    width: 150px;
+    color: brown;
+}
+.inset{
+    border-style: inset;
+    width: 150px;
+}
+.margins{
+    border: 1px solid;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 80px;
+    margin-right: 150px;
+}
+#boxmodel{
+    background-color: lightgray;
+    border:15px solid green;
+    width: 300px;
+    margin: 20px;
+    padding: 50px;
+}
+.align{
+    text-align: left;
+}
+.space{
+    line-height: 4;
+}
+.spaceword{
+    letter-spacing: 2px;
+}
+img{
+    float: right;
+}
+a{
+    color:brown;
+}
+a:hover{
+    color:aqua;
+}
